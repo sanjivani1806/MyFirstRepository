@@ -5,11 +5,10 @@ git
 
 chnage 1 in file
 
-change2 in this file
+change2
 
 
 change3 in file
 
-change4
-
-change5 in file
+change4 in file
+change5
