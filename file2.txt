@@ -3,3 +3,5 @@ this is file 2...
 change 1 --> local change
 
 CHange 2 --> remote change
+
+CHange 3 --> remote change
