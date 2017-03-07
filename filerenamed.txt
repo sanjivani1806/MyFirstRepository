@@ -3,12 +3,12 @@ to
 git
 
 
-chnage 1 in file
+Change - 1 in file
 
-change2
+Change - 2
 
 
-change3 in file
+Change - 3 in file
 
-change4 in file
-change5
+Change - 4 in file
+Change - 5
